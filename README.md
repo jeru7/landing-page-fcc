@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Landing Page - freeCodeCamp Assignment
 
 ## Description
@@ -12,8 +11,12 @@ This is the live version of the landing page: [Visit site](https://jeru7.github.
 ## Preview
 
 ![Screenshot](landingpage.png "Sample photo")
-=======
-# landing-page - This is the landing page project in freeCodeCamp
-## [Visit site](https://jeru7.github.io/landing-page/)
 
->>>>>>> 52b54934870db168ea997a4e108183724546d738
+## Plans
+
+I'm continuously working on improving this assignment along with my progress of becoming a full-stack developer.
+
+## Tech Stack
+
+- HTML
+- CSS
